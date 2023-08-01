@@ -25,7 +25,7 @@ CSV Fuzzy Matcher is a Python script that automates the matching of data between
 
 🛠️ **Under Development**
 - The setup and usage instructions are still being finalized and may be subject to changes.
-- We are actively working on adding more features and refining the matching process.
+- I am actively working on adding more features and refining the matching process.
 
 Feel free to explore, modify, and use this script to streamline your CSV data matching process. If you encounter any issues or have ideas for improvements, don't hesitate to open an issue or contribute to the project!
 
