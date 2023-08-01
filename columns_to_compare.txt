@@ -1,0 +1,4 @@
+# Define columns to compare
+# Previous long form of columns_to_compare:
+# columns_to_compare = ['Channel', 'Style No', 'Style Name', 'Artwork/Color No/Name',
+#                       'In Store Date', 'Qty', 'Retail Price', 'Size Range', 'AC Date', 'LUC', 'SUC', 'Trans Mode']
